@@ -1,0 +1,32 @@
+
+CASCADE Topology V3, (c) Open Cascade
+Locations 0
+Curve2ds 0
+Curves 1
+2 0 0 10 0 0 -1 1 0 0 0 -1 0 1
+Polygon3D 0
+PolygonOnTriangulations 0
+Surfaces 0
+Triangulations 0
+
+TShapes 3
+Ve
+1.00000000489859e-07
+1 -2.44929359829471e-16 10
+0 0
+
+0101101
+*
+Ed
+ 1e-07 1 1 0
+1  1 0 0 6.28318530717959
+0
+
+0101000
++3 0 -3 0 *
+Co
+
+1100000
++2 0 *
+
++1 0 
